@@ -1,5 +1,6 @@
 # Little Brown Book Shop
 GitHub Repo: https://github.com/zephyrmathias/little-brown
+
 This website will be available at: https://brave-wright-2b6e3a.netlify.app
 
 ## Project setup
